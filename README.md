@@ -1,7 +1,5 @@
 ## HolaDataScience
-
-#### El objetivo del trabajo es crear un modelo de Machine Learning para predecir el precio de ciertas propiedades.
-En este proyecto trabajamos con un dataset de propiedades en venta publicado en el portal Properati.
+El objetivo del trabajo es crear un modelo de Machine Learning para predecir el precio de propiedades publicadas en el portal Properti.
 
 ### El proyecto se divide en tres partes.
 1. Analizar la problematica.
