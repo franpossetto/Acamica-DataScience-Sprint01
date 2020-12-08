@@ -2,6 +2,8 @@
 El objetivo del sprint es crear un modelo de Machine Learning para predecir el precio de propiedades publicadas en el portal Properti
 Se adjuntan en este repositorio 14 bitacoras, donde se estudian conceptos basicos de data science utilizando librerias como Numpy, Pandas, MatPlotLib, Seaborn y SkLearn. 
 
+### Carrera en Data Science realizada en Acamica.
+
 ### El proyecto se divide en tres partes.
 1. Analizar la problematica.
 2. Analisis exploratorio de Datos.
